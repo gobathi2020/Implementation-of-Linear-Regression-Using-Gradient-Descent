@@ -23,6 +23,7 @@ Step6: End the program
 ## Program:
 
 ```py
+# Program to implement the linear regression using gradient descent.
 # Developed by: GOBATHI P
 # RegisterNumber: 212222080017
 
